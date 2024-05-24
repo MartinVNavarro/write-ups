@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "52e5f767fe27a5df",
+        "id": "78ebc0d09c400c1c",
         "type": "tabs",
         "children": [
           {
-            "id": "3c7e1edb86ff35c5",
+            "id": "228eb635c3f1457a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HackTheBox/Remote/Remote-Raw.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HackTheBox/Remote/Remote-Raw.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HackTheBox/Remote/Remote-Raw.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HackTheBox/Remote/Remote-Raw.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,20 +146,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c7e1edb86ff35c5",
+  "active": "228eb635c3f1457a",
   "lastOpenFiles": [
-    "HackTheBox/Remote/Assets/Pasted image 20240522074624.png",
+    "HackTheBox/Hospital/Hospital-Raw.md",
+    "HackTheBox/Hospital/Assets/Pasted image 20240523135057.png",
+    "HackTheBox/Hospital/Assets/Pasted image 20240523144008.png",
+    "HackTheBox/Hospital/Assets/Pasted image 20240523125857.png",
+    "HackTheBox/Hospital/Assets/Pasted image 20240523114655.png",
+    "HackTheBox/Hospital/Assets/Pasted image 20240522230111.png",
+    "HackTheBox/Hospital/Assets/Pasted image 20240522225356.png",
+    "HackTheBox/Hospital/Assets/Pasted image 20240522230810.png",
+    "HackTheBox/Hospital/Assets/Pasted image 20240522224837.png",
+    "HackTheBox/Hospital/Assets/Pasted image 20240522224806.png",
+    "HackTheBox/Hospital/Assets/Pasted image 20240523134909.png",
+    "TryHackMe/README.md",
+    "HackTheBox/Hospital/Assets",
+    "HackTheBox/Hospital",
+    "HackTheBox/Return/Assets",
+    "HackTheBox/Return/Return-Raw.md",
+    "HackTheBox/Granny/Granny-Raw.md",
     "HackTheBox/Remote/Remote-Raw.md",
-    "HackTheBox/Remote/Assets/Pasted image 20240521202313.png",
-    "HackTheBox/Remote/Assets/Pasted image 20240522104037.png",
-    "HackTheBox/Remote/Assets/Pasted image 20240522103459.png",
-    "HackTheBox/Remote/Assets/Pasted image 20240522103358.png",
-    "HackTheBox/Remote/Assets/Pasted image 20240522102727.png",
-    "HackTheBox/Remote/Assets/Pasted image 20240522102214.png",
-    "HackTheBox/Remote/Assets/Pasted image 20240522095611.png",
-    "HackTheBox/Remote/Assets/Pasted image 20240522095609.png",
-    "HackTheBox/Remote/Assets/Pasted image 20240522092107.png",
-    "HackTheBox/Remote/Assets/Pasted image 20240522091710.png",
+    "HackTheBox/Return",
+    "HackTheBox/Granny/Assets",
+    "HackTheBox/Granny",
     "HackTheBox/Remote/Remote-Raw 1.md",
     "HackTheBox/Remote/Assets",
     "HackTheBox/Remote",
