@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "52e5f767fe27a5df",
+        "id": "5bca5303ce9f7988",
         "type": "tabs",
         "children": [
           {
-            "id": "3c7e1edb86ff35c5",
+            "id": "837f64b5b20494e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HackTheBox/Remote/Remote-Raw.md",
+                "file": "HackTheBox/Active/Active-Raw.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HackTheBox/Remote/Remote-Raw.md",
+                "file": "HackTheBox/Active/Active-Raw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HackTheBox/Remote/Remote-Raw.md",
+                "file": "HackTheBox/Active/Active-Raw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HackTheBox/Remote/Remote-Raw.md"
+                "file": "HackTheBox/Active/Active-Raw.md"
               }
             }
           }
@@ -146,20 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c7e1edb86ff35c5",
+  "active": "837f64b5b20494e8",
   "lastOpenFiles": [
-    "HackTheBox/Remote/Assets/Pasted image 20240522074624.png",
+    "Pasted.md",
+    "HackTheBox/Active/Active-Raw.md",
+    "HackTheBox/Active/Assets/Pasted image 20240529204743.png",
     "HackTheBox/Remote/Remote-Raw.md",
-    "HackTheBox/Remote/Assets/Pasted image 20240521202313.png",
-    "HackTheBox/Remote/Assets/Pasted image 20240522104037.png",
-    "HackTheBox/Remote/Assets/Pasted image 20240522103459.png",
-    "HackTheBox/Remote/Assets/Pasted image 20240522103358.png",
-    "HackTheBox/Remote/Assets/Pasted image 20240522102727.png",
-    "HackTheBox/Remote/Assets/Pasted image 20240522102214.png",
-    "HackTheBox/Remote/Assets/Pasted image 20240522095611.png",
-    "HackTheBox/Remote/Assets/Pasted image 20240522095609.png",
-    "HackTheBox/Remote/Assets/Pasted image 20240522092107.png",
-    "HackTheBox/Remote/Assets/Pasted image 20240522091710.png",
+    "HackTheBox/Active/Assets/Pasted image 20240529200440.png",
+    "HackTheBox/Active/Assets/Pasted image 20240529200240.png",
+    "().md",
+    "HackTheBox/Active/Assets/Pasted image 20240529134850.png",
+    "HackTheBox/Active/Assets/Pasted image 20240529171425.png",
+    "HackTheBox/Active/Assets/Pasted image 20240529171229.png",
+    "HackTheBox/Active/Assets/Pasted image 20240529171125.png",
+    "HackTheBox/Active/Assets/Pasted image 20240529170618.png",
+    "Pasted image 20240529170856.png",
+    "Pasted image 20240529170834.png",
+    "HackTheBox/Active/Assets",
+    "HackTheBox/Active",
+    "templates/general-vulnbox.md",
     "HackTheBox/Remote/Remote-Raw 1.md",
     "HackTheBox/Remote/Assets",
     "HackTheBox/Remote",
