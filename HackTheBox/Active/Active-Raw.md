@@ -7,7 +7,7 @@
 nmap -p- -T4 --min-rate 10000 -oA nmap/all 10.129.230.20
 ```
 
-![](Pasted%20image%2020240529200240.png)
+![](Assets/Pasted%20image%2020240529200240.png)
 
 ### Port Versions Scan
 
